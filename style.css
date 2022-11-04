@@ -1,0 +1,15 @@
+.nav-element{
+    display: flex;
+    justify-content: space-evenly;
+}
+.image{
+    display: flex;
+    justify-content: right;
+}
+.nav-container{
+    background-color: #00BAF2;
+}
+
+.nav-container:hover{
+    background-color: red;
+}
